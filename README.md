@@ -1,6 +1,8 @@
 # formation_git
 Test de fonctionnalités Git et GitHub.
 
+Readme file modified by IgnacioCarbajoVallejo
+
 ## ``` git init ```
 Pour initialiser un projet Git.
 
