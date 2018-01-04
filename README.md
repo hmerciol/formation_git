@@ -1,7 +1,7 @@
 # formation_git
 Test de fonctionnalités Git et GitHub.
 
-### Trying to have a conflict with the master
+### gitwar!
 
 ## ``` git init ```
 Pour initialiser un projet Git.
