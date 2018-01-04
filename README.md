@@ -1,2 +1,2 @@
 # formation_git
-test
+Test de fonctionnalités Git et GitHub
