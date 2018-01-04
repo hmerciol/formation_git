@@ -1,7 +1,8 @@
 # formation_git
-Test de fonctionnalités Git et GitHub.
+Test de fonctionnalitÃ©s Git et GitHub.
 
 ### Trying to have a conflict during the pull request with the master
+### gitwar!
 
 ## ``` git init ```
 Pour initialiser un projet Git.
@@ -10,19 +11,19 @@ Pour initialiser un projet Git.
 Pour cloner un projet Git en local.
 
 ## ``` git status ```
-Consulter l'état du répertoir Git.
+Consulter l'Ã©tat du rÃ©pertoir Git.
 
 ## ``` git add [file/.] ```
-Pour ajouter un fichier nouveau/modifié à l'index pour le prochain commit ('.' pour ajouter tous les fichiers nouveaux/modifiés).
+Pour ajouter un fichier nouveau/modifiÃ© Ã  l'index pour le prochain commit ('.' pour ajouter tous les fichiers nouveaux/modifiÃ©s).
 
 ## ``` git commit [-a] [-m "msg"] ```
-Pour effectuer un commit en indexant tous les fichiers (si ``` -a ```) accompagné du message "msg".
+Pour effectuer un commit en indexant tous les fichiers (si ``` -a ```) accompagnÃ© du message "msg".
 
 ## ``` git checkout [version/branch] [file] ```
-Pour récupérer l'état du projet ou d'un fichier "file" à une version/dans une branche spécifique.
+Pour rÃ©cupÃ©rer l'Ã©tat du projet ou d'un fichier "file" Ã  une version/dans une branche spÃ©cifique.
 
 ## ``` git branch [name] ```
-Pour créer une nouvelle branche.
+Pour crÃ©er une nouvelle branche.
 
 ## ``` git merge [branch] ```
 Pour fusionner avec une certaine branche.
@@ -31,4 +32,4 @@ Pour fusionner avec une certaine branche.
 Pour actualiser les changement locaux sur le serveur.
 
 ## ``` git pull ```
-Pour récupérer localement le projet dans l'état sur le serveur.
+Pour rÃ©cupÃ©rer localement le projet dans l'Ã©tat sur le serveur.
