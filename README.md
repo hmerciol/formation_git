@@ -15,8 +15,8 @@ Consulter l'état du répertoir Git.
 ## ``` git add [file/.] ```
 Pour ajouter un fichier nouveau/modifié à l'index pour le prochain commit ('.' pour ajouter tous les fichiers nouveaux/modifiés).
 
-## ``` git commit [-m "msg"] ```
-Pour effectuer un commit accompagné du message "msg".
+## ``` git commit [-a] [-m "msg"] ```
+Pour effectuer un commit en indexant tous les fichiers (si ``` -a ```) accompagné du message "msg".
 
 ## ``` git checkout [version/branch] [file] ```
 Pour récupérer l'état du projet ou d'un fichier "file" à une version/dans une branche spécifique.
